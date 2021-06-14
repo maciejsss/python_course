@@ -1,3 +1,3 @@
-age = 27
-imie = 'Mąciej'
-print('() ma ()'.format(imie, age))
+
+jezyk = input('jakiego jezyka chcesz sie nauczyc?')
+print('Podano jezyk: {}'.format(jezyk))
